@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritesh Trivedi</h1>
 <h3 align="center">Currently Pursuing MCA | Passionate about Coding & Development</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-- 🌱 I’m currently learning **Streamlit, Python, ML**
+<br>
+- 🌱 I’m currently learning Streamlit, Python, ML
 
 - 👨‍💻 All of my projects are available at [ritesht04.netlify.app](ritesht04.netlify.app)
 
